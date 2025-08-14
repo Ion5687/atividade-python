@@ -1,4 +1,4 @@
-
+[
   {
     "id": 1,
     "titulo": "Percorrendo uma Lista",
@@ -74,4 +74,4 @@
     "titulo": "Invertendo a Lista",
     "descricao": "Escreva uma função que receba uma lista e retorne uma nova lista com os elementos na ordem inversa."
   }
-
+]
